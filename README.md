@@ -15,15 +15,7 @@ katja-kudr@mail.ru
 [e-commerce](https://github.com/ev-kudr/e-commerce) | Аналитическое исследование для интернет-магазина
 [AB-test_payment_system](https://github.com/ev-kudr/AB-test_payment_system) | А/В-тест: внедрение новой платежной системы
 
-Инструменты
-
-- 👋 Hi, I’m @ev-kudr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ev-kudr/ev-kudr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Инструменты
+<img height="80" alt="Python" src="https://github.com/ev-kudr/ev-kudr/assets/144243817/014f308b-c406-438e-84c3-afc7a1f192f6">
+<img height="80" alt="git" src="https://github.com/ev-kudr/ev-kudr/assets/144243817/5dc6c2f5-bb51-43b4-9e62-35d188de4523">
+<img height="80" alt="PostgreSQL" src="https://github.com/ev-kudr/ev-kudr/assets/144243817/bbe6e4e2-40f5-476c-8005-16f033365152">
